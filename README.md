@@ -7,6 +7,21 @@ Backend API: https://shopflow-admin.onrender.com
 Email: admin@shopflow.dev  
 Password: admin123
 
+
+## Architecture
+
+Frontend (React + Vite)  
+↓  
+FastAPI Backend  
+↓  
+Database (SQLite + SQLAlchemy)
+
+### Features
+- Authentication (JWT)
+- Product Management (CRUD)
+- Order Processing
+- Analytics Dashboard
+
 # ShopFlow - Portfolio E-commerce Admin Dashboard
 
 ShopFlow is a recruiter-ready full-stack admin dashboard for e-commerce operations.  
