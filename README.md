@@ -1,3 +1,12 @@
+## Live Demo
+
+Frontend: https://shopflow-admin-1.onrender.com  
+Backend API: https://shopflow-admin.onrender.com  
+
+### Demo Credentials
+Email: admin@shopflow.dev  
+Password: admin123
+
 # ShopFlow - Portfolio E-commerce Admin Dashboard
 
 ShopFlow is a recruiter-ready full-stack admin dashboard for e-commerce operations.  
